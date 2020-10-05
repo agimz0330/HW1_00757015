@@ -7,16 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3BC3D1D7252B1D0F004D2970 /* branch_zystoo-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BC3D1D6252B1D0F004D2970 /* branch_zystoo-Regular.otf */; };
 		43DA4B212521D28400824B2E /* HW1_00757015App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DA4B202521D28400824B2E /* HW1_00757015App.swift */; };
-		43DA4B232521D28400824B2E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DA4B222521D28400824B2E /* ContentView.swift */; };
+		43DA4B232521D28400824B2E /* ElsaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DA4B222521D28400824B2E /* ElsaView.swift */; };
 		43DA4B252521D28600824B2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43DA4B242521D28600824B2E /* Assets.xcassets */; };
 		43DA4B282521D28600824B2E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43DA4B272521D28600824B2E /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3BC3D1D6252B1D0F004D2970 /* branch_zystoo-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "branch_zystoo-Regular.otf"; sourceTree = "<group>"; };
 		43DA4B1D2521D28400824B2E /* HW1_00757015.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW1_00757015.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43DA4B202521D28400824B2E /* HW1_00757015App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW1_00757015App.swift; sourceTree = "<group>"; };
-		43DA4B222521D28400824B2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		43DA4B222521D28400824B2E /* ElsaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElsaView.swift; sourceTree = "<group>"; };
 		43DA4B242521D28600824B2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43DA4B272521D28600824B2E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43DA4B292521D28600824B2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,9 +55,10 @@
 			isa = PBXGroup;
 			children = (
 				43DA4B202521D28400824B2E /* HW1_00757015App.swift */,
-				43DA4B222521D28400824B2E /* ContentView.swift */,
+				43DA4B222521D28400824B2E /* ElsaView.swift */,
 				43DA4B242521D28600824B2E /* Assets.xcassets */,
 				43DA4B292521D28600824B2E /* Info.plist */,
+				3BC3D1D6252B1D0F004D2970 /* branch_zystoo-Regular.otf */,
 				43DA4B262521D28600824B2E /* Preview Content */,
 			);
 			path = HW1_00757015;
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BC3D1D7252B1D0F004D2970 /* branch_zystoo-Regular.otf in Resources */,
 				43DA4B282521D28600824B2E /* Preview Assets.xcassets in Resources */,
 				43DA4B252521D28600824B2E /* Assets.xcassets in Resources */,
 			);
@@ -138,7 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				43DA4B232521D28400824B2E /* ContentView.swift in Sources */,
+				43DA4B232521D28400824B2E /* ElsaView.swift in Sources */,
 				43DA4B212521D28400824B2E /* HW1_00757015App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
